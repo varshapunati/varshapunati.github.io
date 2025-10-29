@@ -106,33 +106,22 @@ and (min-width: 550px) {
 
 	/* PAGE ONE */
 
-	.hero-image img {
-		margin: 3em 0em 3em 42em;
-		width: 38%;
-		border-radius: 50%;
-	}
-
 	.hero {
-		margin-top: -26em;
-		margin-bottom: 2em;
+		background-color: #1D1D1B;
+		color: #EAE4DA;
 	}
 
 	.hero img {
 		width: 100%;
-		padding-bottom: 2em;
+		margin-top: -10em;
+		padding-bottom: 0em
 	}
 
-	.hero p {
-		margin-top: -2em;
-		margin-left: 2.5em;
-		width: 40%;
-		font-size: 1.3em;
-		line-height: 1.2em;
-	}
-
-	.spikes img {
-		width: 11%;
-		padding: 1.5em 0em 2em 5em;
+	.hero p{
+		text-align: center;
+		margin: 0em 20.5em;
+		font-size: 1.1em;
+		padding: 2.5em 0em 0em;
 	}
 
 	.button {
