@@ -124,6 +124,10 @@ and (min-width: 550px) {
 		padding: 2.5em 0em 0em;
 	}
 
+	.mobile {
+		display: none;
+	}
+
 	.button {
 		width: 30%;
 		font-size: 1.5em;
@@ -478,22 +482,25 @@ and (min-width: 550px) {
 
 	/* PAGE ONE */
 
-	.hero-image img {
-		margin: 2em 0em;
-		width: 100%;
-		border-radius: 1em;
+	.hero {
+		background-color: #1D1D1B;
+		color: #EAE4DA;
 	}
 
-	.hero img {
-		width: 0%;
-		padding-bottom: 2em;
+	.mobile {
+		width: 80%;
+		margin: 0em 2em 2em;
+		border-radius: .7em;
 	}
+
+	.web {
+		display: none;
+	} 
 
 	.hero p {
-		width: 100%;
-		font-size: 1.2em;
+		padding: 1em 1em;
+		font-size: 1.1em;
 		line-height: 1.2em;
-		text-align: justify;
 	}
 
 	.spikes img {
