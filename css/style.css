@@ -113,7 +113,7 @@ and (min-width: 550px) {
 
 	.hero img {
 		width: 100%;
-		margin-top: -8em;
+		margin-top: -9em;
 		padding-bottom: 0em
 	}
 
@@ -121,7 +121,7 @@ and (min-width: 550px) {
 		text-align: center;
 		margin: 0em 20.5em;
 		font-size: 1.1em;
-		padding: 4em 0em 0em;
+		padding: 5em 0em 0em;
 	}
 
 	.mobile {
