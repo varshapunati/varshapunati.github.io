@@ -235,6 +235,27 @@ and (min-width: 550px) {
 		padding-top: 1em;
 	}
 
+	projects {
+		overflow: auto;
+	}
+
+	.graphic {
+		width: 32%;
+		float: left;
+		margin-right: 2%;
+	}
+
+	.web {
+		width: 32%;
+		float: left;
+		margin-right: 2%;
+	}
+
+	.print {
+		width: 32%;
+		float: right;
+	}
+
 	.scroll {
 		display: flex;
     	overflow-x: auto;
