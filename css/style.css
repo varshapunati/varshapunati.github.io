@@ -544,7 +544,7 @@ and (min-width: 550px) {
 		background-repeat: no-repeat;
 		background-position: center;
 		text-align: left;
-		min-height: 340vh;
+		min-height: 300vh;
 	}
 
 	#featured h2 {
@@ -579,6 +579,7 @@ and (min-width: 550px) {
 	/* PAGE ONE ABOUT SECTION */
 
 	#about {
+		margin-top: -2em;
 		background-color: #b0ff4a;
 		padding: 1em 4em;
 		overflow: auto;
@@ -739,7 +740,7 @@ and (min-width: 550px) {
 
     .text-box {
       	margin: .3em 1em 0em 0em;
-      	width: 350px;
+      	width: 250px;
       	overflow: auto;
     }
 
