@@ -440,9 +440,9 @@ and (min-width: 550px) {
 	}
 
 	header {
-		margin-top: 5em;
+		margin-top: 3em;
 		text-align: center;
-		font-size: 1.5em;
+		font-size: 2em;
 	}
 
 	.stay {
