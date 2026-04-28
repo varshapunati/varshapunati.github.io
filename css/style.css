@@ -544,7 +544,7 @@ and (min-width: 550px) {
 		background-repeat: no-repeat;
 		background-position: center;
 		text-align: left;
-		min-height: 250vh;
+		min-height: 200vh;
 	}
 
 	#featured h2 {
