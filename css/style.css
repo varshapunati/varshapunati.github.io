@@ -625,7 +625,7 @@ and (min-width: 550px) {
 	/*PAGE TWO */
 
 	.page2 {
-		margin-top: 2em;
+		margin: 3em 0em;
 		text-align: center;
 	}
 
