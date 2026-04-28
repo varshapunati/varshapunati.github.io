@@ -292,7 +292,6 @@ and (min-width: 550px) {
 	}
 
 	#gallery {
-		margin-top: -2em;
 		background-color: #b0ff4a;
 		padding: 1em 4em;
 		overflow: auto;
@@ -692,6 +691,7 @@ and (min-width: 550px) {
 	}
 
 	#gallery {
+		margin-top: -2em;
 		background-color: #b0ff4a;
 		padding: 1em 4em;
 		overflow: auto;
