@@ -519,7 +519,7 @@ and (min-width: 550px) {
 	/* PAGE ONE HERO SECTION */
 
 	#hero {
-		padding: 10em 1em 6em;
+		padding: 10em .5em 13em;
 	}
 
 	.scroll2 {
