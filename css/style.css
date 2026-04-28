@@ -457,7 +457,7 @@ and (min-width: 550px) {
 
 	nav a {
 		color: #1d1d1b;
-		margin: 0em .5em;
+		margin: 0em .3em;
 	}
 
 	nav a:hover {
